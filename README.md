@@ -1,3 +1,3 @@
 # Financial Analysis Scripts
 ## Stochastic Oscillator
-[description of script]
+A scipt which calculates the stochastic oscillators for a given set of historical stock price data and therefore indicates if it is oversold.
